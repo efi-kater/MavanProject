@@ -7,7 +7,7 @@ public class MyTest {
     @Test
     public void firstTest(){
         int x =16;
-        Assert.assertNotEquals(x,15);
+        Assert.assertNotEquals(x,14);
     }
 
     @Test
