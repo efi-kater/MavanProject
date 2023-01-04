@@ -6,7 +6,7 @@ import org.testng.annotations.Test;
 public class MyTest {
     @Test
     public void firstTest(){
-        int x =16;
+        int x =20;
         Assert.assertNotEquals(x,14);
     }
 
